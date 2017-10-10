@@ -1,0 +1,6 @@
+C:\Users\asipe\source\repos\ToyProbMedium\ToyProbMedium\bin\Debug\ToyProbMedium.exe.config
+C:\Users\asipe\source\repos\ToyProbMedium\ToyProbMedium\bin\Debug\ToyProbMedium.exe
+C:\Users\asipe\source\repos\ToyProbMedium\ToyProbMedium\bin\Debug\ToyProbMedium.pdb
+C:\Users\asipe\source\repos\ToyProbMedium\ToyProbMedium\obj\Debug\ToyProbMedium.csproj.CoreCompileInputs.cache
+C:\Users\asipe\source\repos\ToyProbMedium\ToyProbMedium\obj\Debug\ToyProbMedium.exe
+C:\Users\asipe\source\repos\ToyProbMedium\ToyProbMedium\obj\Debug\ToyProbMedium.pdb

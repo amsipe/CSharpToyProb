@@ -1,0 +1,7 @@
+C:\Users\asipe\source\repos\EasyToyProb\EasyToyProb\bin\Debug\EasyToyProb.exe.config
+C:\Users\asipe\source\repos\EasyToyProb\EasyToyProb\bin\Debug\EasyToyProb.exe
+C:\Users\asipe\source\repos\EasyToyProb\EasyToyProb\bin\Debug\EasyToyProb.pdb
+C:\Users\asipe\source\repos\EasyToyProb\EasyToyProb\obj\Debug\EasyToyProb.csprojResolveAssemblyReference.cache
+C:\Users\asipe\source\repos\EasyToyProb\EasyToyProb\obj\Debug\EasyToyProb.csproj.CoreCompileInputs.cache
+C:\Users\asipe\source\repos\EasyToyProb\EasyToyProb\obj\Debug\EasyToyProb.exe
+C:\Users\asipe\source\repos\EasyToyProb\EasyToyProb\obj\Debug\EasyToyProb.pdb

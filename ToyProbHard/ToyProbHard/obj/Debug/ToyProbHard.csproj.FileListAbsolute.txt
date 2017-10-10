@@ -1,0 +1,6 @@
+C:\Users\asipe\source\repos\ToyProbHard\ToyProbHard\bin\Debug\ToyProbHard.exe.config
+C:\Users\asipe\source\repos\ToyProbHard\ToyProbHard\bin\Debug\ToyProbHard.exe
+C:\Users\asipe\source\repos\ToyProbHard\ToyProbHard\bin\Debug\ToyProbHard.pdb
+C:\Users\asipe\source\repos\ToyProbHard\ToyProbHard\obj\Debug\ToyProbHard.csproj.CoreCompileInputs.cache
+C:\Users\asipe\source\repos\ToyProbHard\ToyProbHard\obj\Debug\ToyProbHard.exe
+C:\Users\asipe\source\repos\ToyProbHard\ToyProbHard\obj\Debug\ToyProbHard.pdb

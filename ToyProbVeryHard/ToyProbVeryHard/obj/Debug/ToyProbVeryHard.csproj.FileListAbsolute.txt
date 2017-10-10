@@ -1,0 +1,7 @@
+C:\Users\asipe\source\repos\ToyProbVeryHard\ToyProbVeryHard\bin\Debug\ToyProbVeryHard.exe.config
+C:\Users\asipe\source\repos\ToyProbVeryHard\ToyProbVeryHard\bin\Debug\ToyProbVeryHard.exe
+C:\Users\asipe\source\repos\ToyProbVeryHard\ToyProbVeryHard\bin\Debug\ToyProbVeryHard.pdb
+C:\Users\asipe\source\repos\ToyProbVeryHard\ToyProbVeryHard\obj\Debug\ToyProbVeryHard.csprojResolveAssemblyReference.cache
+C:\Users\asipe\source\repos\ToyProbVeryHard\ToyProbVeryHard\obj\Debug\ToyProbVeryHard.csproj.CoreCompileInputs.cache
+C:\Users\asipe\source\repos\ToyProbVeryHard\ToyProbVeryHard\obj\Debug\ToyProbVeryHard.exe
+C:\Users\asipe\source\repos\ToyProbVeryHard\ToyProbVeryHard\obj\Debug\ToyProbVeryHard.pdb

@@ -1,0 +1,14 @@
+C:\Users\asipe\source\repos\ToyProbEasy\ToyProbEasy\bin\Debug\ToyProbEasy.exe.config
+C:\Users\asipe\source\repos\ToyProbEasy\ToyProbEasy\bin\Debug\ToyProbEasy.exe
+C:\Users\asipe\source\repos\ToyProbEasy\ToyProbEasy\bin\Debug\ToyProbEasy.pdb
+C:\Users\asipe\source\repos\ToyProbEasy\ToyProbEasy\obj\Debug\ToyProbEasy.csprojResolveAssemblyReference.cache
+C:\Users\asipe\source\repos\ToyProbEasy\ToyProbEasy\obj\Debug\ToyProbEasy.csproj.CoreCompileInputs.cache
+C:\Users\asipe\source\repos\ToyProbEasy\ToyProbEasy\obj\Debug\ToyProbEasy.exe
+C:\Users\asipe\source\repos\ToyProbEasy\ToyProbEasy\obj\Debug\ToyProbEasy.pdb
+C:\Users\asipe\source\repos\CSharpToyProblems\ToyProbEasy\ToyProbEasy\bin\Debug\ToyProbEasy.exe.config
+C:\Users\asipe\source\repos\CSharpToyProblems\ToyProbEasy\ToyProbEasy\bin\Debug\ToyProbEasy.exe
+C:\Users\asipe\source\repos\CSharpToyProblems\ToyProbEasy\ToyProbEasy\bin\Debug\ToyProbEasy.pdb
+C:\Users\asipe\source\repos\CSharpToyProblems\ToyProbEasy\ToyProbEasy\obj\Debug\ToyProbEasy.csprojResolveAssemblyReference.cache
+C:\Users\asipe\source\repos\CSharpToyProblems\ToyProbEasy\ToyProbEasy\obj\Debug\ToyProbEasy.csproj.CoreCompileInputs.cache
+C:\Users\asipe\source\repos\CSharpToyProblems\ToyProbEasy\ToyProbEasy\obj\Debug\ToyProbEasy.exe
+C:\Users\asipe\source\repos\CSharpToyProblems\ToyProbEasy\ToyProbEasy\obj\Debug\ToyProbEasy.pdb

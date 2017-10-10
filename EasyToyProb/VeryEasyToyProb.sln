@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyToyProb", "EasyToyProb\EasyToyProb.csproj", "{495C677C-E76C-4278-9141-6E53E0811AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{495C677C-E76C-4278-9141-6E53E0811AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495C677C-E76C-4278-9141-6E53E0811AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495C677C-E76C-4278-9141-6E53E0811AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495C677C-E76C-4278-9141-6E53E0811AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {482152DF-9DB5-4AEF-858F-A980D622A992}
+	EndGlobalSection
+EndGlobal
